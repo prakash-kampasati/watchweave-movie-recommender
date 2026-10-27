@@ -1,2 +1,4 @@
 venv
 similarity.pkl
+
+.streamlit/secrets.toml
