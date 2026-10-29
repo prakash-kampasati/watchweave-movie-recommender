@@ -4,6 +4,10 @@ Discover your next favorite movie with **WatchWeave**, a content-based movie rec
 
 WatchWeave analyzes movie tags and recommends films with similar content characteristics. Its interactive interface allows users to search for movies, explore recommendations, view movie posters, and open movie details on TMDB.
 
+## 🌐 Live Demo
+
+🚀 **Try WatchWeave here:** [Launch Movie Recommendation System](https://watchweave-movie-recommender.streamlit.app/)
+
 ## ✨ Features
 
 - **🔎 Movie Search:** Search and select movies from the available dataset.
